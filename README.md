@@ -29,3 +29,22 @@
     
   </tr>
 </table>
+
+## 1. Awesome Dialog
+<table style="width:100%">
+  <tr>
+    <th>1. Demo </th>
+    <th>2. Demo</th> 
+    <th>3. Demo</th> 
+    <th>4. Demo</th> 
+    <th>5. Demo</th> 
+  </tr>
+  <tr>
+    <td><img src = "Dialog/1.jpg"/></td>
+    <td><img src = "Dialog/2.jpg"/></td>
+    <td><img src = "Dialog/3.jpg"/></td>
+    <td><img src = "Dialog/4.jpg"/></td>
+    <td><img src = "Dialog/5.jpg"/></td> 
+    
+  </tr>
+</table>
