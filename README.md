@@ -17,7 +17,7 @@
   </tr>
 </table>
 
-## 1. Splash Screen Animation
+## 2. Splash Screen Animation
 
 [Resource Animation](https://lottiefiles.com/38047-splash-screen-of-programming-hero-app)
 <table style="width:25%">
@@ -30,7 +30,7 @@
   </tr>
 </table>
 
-## 1. Awesome Dialog
+## 3. Awesome Dialog
 <table style="width:100%">
   <tr>
     <th>1. Demo </th>
