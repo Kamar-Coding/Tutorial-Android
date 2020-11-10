@@ -11,11 +11,11 @@
     <th>5. Demo</th> 
   </tr>
   <tr>
-    <td><img src = "Bubble/1.png"/></td>
-    <td><img src = "Bubble/2.png"/></td>
-    <td><img src = "Bubble/3.png"/></td>
-    <td><img src = "Bubble/4.png"/></td>
-    <td><img src = "Bubble/5.png"/></td> 
+    <td><img src = "Bubble/1.jpg"/></td>
+    <td><img src = "Bubble/2.jpg"/></td>
+    <td><img src = "Bubble/3.jpg"/></td>
+    <td><img src = "Bubble/4.jpg"/></td>
+    <td><img src = "Bubble/5.jpg"/></td> 
     
   </tr>
 </table>
