@@ -1,7 +1,4 @@
-# Tutorial-Android
-
-
-## Bubble Bottom Navigation
+## 1. Bubble Bottom Navigation
 <table style="width:100%">
   <tr>
     <th>1. Demo </th>
