@@ -20,7 +20,7 @@
 ## 1. Splash Screen Animation
 
 [Resource Animation](https://lottiefiles.com/38047-splash-screen-of-programming-hero-app)
-<table style="width:50%">
+<table style="width:25%">
   <tr>
     <th>1. Demo </th>
   </tr>
