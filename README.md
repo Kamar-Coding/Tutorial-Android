@@ -16,3 +16,14 @@
     
   </tr>
 </table>
+
+## 1. Splash Screen Animation
+<table style="width:100%">
+  <tr>
+    <th>1. Demo </th>
+  </tr>
+  <tr>
+    <td><img src = "Splash/splash.gif"/></td>
+    
+  </tr>
+</table>
